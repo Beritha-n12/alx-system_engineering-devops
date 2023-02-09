@@ -1,2 +1,2 @@
 #!/bin/bash
-Type: telnet towel.blinkenlights.nl
+. Type: telnet towel.blinkenlights.nl
